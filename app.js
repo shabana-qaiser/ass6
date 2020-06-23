@@ -539,7 +539,6 @@
 // }
 // alert(character_counting('JSResourceS.com', 'o'));
 
-
 // chapter # 35 to 38 Q # 14
 
 // function calcCircumfrence(radius) {
@@ -554,5 +553,3 @@
     
 //     calcCircumfrence();
 //     calcArea();
-
-
